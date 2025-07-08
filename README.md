@@ -41,9 +41,3 @@ Usage
 - Users can browse the menu, check food availability, and place orders.
 - Admins can manage inventory, update food status, and view customer feedback.
 - Notification System keeps users informed about real-time menu updates on "Today's special".
-
-Contributors
-- Diya
-- Prithvi S Nayak
-- Samridhi S
-- Shraddha J Naik
